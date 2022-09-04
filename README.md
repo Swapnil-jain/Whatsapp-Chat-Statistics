@@ -1,7 +1,7 @@
 # WhatsApp Chat Analysis
-Upload your WhatsApp chats and the tool analyses them for you. Works for both group chats and individual chats.
+Upload your WhatsApp chats and the tool analyses them for you. Works for both group chats and individual chats. None of the chats are stored, and your data is 100% secured.
+
 It is live at: https://whatsapp-message-analysis.herokuapp.com/
-None of the chats are stored, and your data is 100% secured.
 
 ## What it shows ?
 1. Top statistics including total messages, total links shared, total words etc.
