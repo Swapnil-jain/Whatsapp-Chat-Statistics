@@ -1,7 +1,7 @@
 # WhatsApp Chat Analysis
 Upload your WhatsApp chats and the tool analyses them for you. Works for both group chats and individual chats. None of the chats are stored, and your data is 100% secured.
 
-It is live at: https://whatsapp-message-analysis.herokuapp.com/
+It is live at: https://whatsapp-chat-analysis.onrender.com/
 
 ## What it shows ?
 1. Top statistics including total messages, total links shared, total words etc.
@@ -29,4 +29,4 @@ It is live at: https://whatsapp-message-analysis.herokuapp.com/
 2. Emojis are sometimes not visible in the pie-chart, due to incompatible support from matplotlib for those emojis.
 
 ### Tech stack used:
-Python, Streamlit, Heroku, Lottie and data analysis libraries like numpy, pandas, matplotlib etc.
+Python, Streamlit, Render, Lottie and data analysis libraries like numpy, pandas, matplotlib etc.
